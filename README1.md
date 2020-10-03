@@ -42,7 +42,7 @@
 - **解决问题的能力不强**：coding能力一定要提上去，不要老是想着粘贴复制看看其他人的解决方案，还有就是leetcode和牛客一定要刷
 - **不要想那些乱七八糟的**：你未来5年的任务是做到一个领域的技术leader，这样你后面的人生才有一定的保障
 
-```
+```java
 public class Singleton {
 
     //volatile保证，当uniqueInstance变量被初始化成Singleton实例时，多个线程可以正确处理uniqueInstance变量
